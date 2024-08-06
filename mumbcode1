@@ -2,3 +2,15 @@ IDENTIFICATION DIVISION.
 ENVIRONMENT DIVISION.
 DATA DIVISION.
 PROCEDURE DIVISION.
+-----------------------
+COBOL character set
+COBOL word
+COBOL literals
+COBOL constants
+COBOL variables
+COBOL statements
+COBOL sentences
+COBOL paragraphs
+COBOL sections
+COBOL characters
+-----------------------
